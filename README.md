@@ -1,1 +1,2 @@
-# Car-Simulation-using-C-
+# Car-Simulation-using-C++
+## Computer Graphics Project
